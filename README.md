@@ -10,62 +10,36 @@ I'm a developer with skills in:
 
 ## Projects 🚀
 
-### Project: [API YaMDb](https://github.com/vhg860/api_yamdb)
+### [Django Testing](https://github.com/vhg860/django_testing)
+- Collection of tests for YaNews and YaNote projects using pytest and unittest.
 
-**Description:**
-YaMDb collects user reviews on various works categorized as "Books," "Movies," and "Music." Authenticated users can leave reviews, comments, and ratings.
+### [Blogicum](https://github.com/vhg860/django_sprint4)
+- Social network for publishing personal diaries. Users can create their page and post messages (posts).
 
-**Technologies:**
-- Python 3.9
-- Django 3.2
-- Django REST framework 3.12.4
-- Simple JWT 5.3.0
-- Django Filter 23.2
+### [API Yatube](https://github.com/vhg860/api_yatube)
+- CRUD for Yatube.
+- TokenAuthentication for user authorization.
+- Authenticated users have access to change and delete their content, while others can only read.
 
-### Project: [Blogicum](https://github.com/vhg860/django_sprint4)
+### [API YaMDb](https://github.com/vhg860/api_yamdb)
+- Collects user reviews on works categorized into "Books," "Movies," "Music."
+- Only authenticated users can add reviews, comments, and ratings.
 
-**Description:**
-A social network for publishing personal diaries. Users can create their pages and publish posts, categorized by topics like "Travel," "Cooking," or "Python Development."
+### [Fitness Tracker Module](https://github.com/vhg860/hw_python_oop)
+- Handles data for three types of workouts: running, walking, and swimming.
 
-**Features:**
-- Categorized posts with optional location tags
-- Users can visit and comment on others' pages
-- Moderation of posts and blocking spam users
+### [Taski-Docker](https://github.com/vhg860/taski-docker)
+- Task planning application with the ability to add, modify, delete tasks and move them between "unfinished" and "finished" groups.
 
-### Project: [Foodgram](https://github.com/vhg860/foodgram-project-react)
+### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
+- Telegram bot that interacts with Yandex.Practicum Homework API.
+- Provides information on the status of homework: whether it's in review, reviewed, and the reviewer's decision.
 
-**Description:**
-Foodgram is a web application for sharing and discovering recipes, adding them to favorites, and creating shopping lists for cooking.
+### [Foodgram](https://github.com/vhg860/foodgram-project-react)
+- Web application for sharing and finding recipes, adding them to favorites, and creating a shopping list.
 
-**Tech Stack:**
-- Backend: Django, PostgreSQL
-- Frontend: React
-- Deployment: Docker, GitHub Actions
-
-### Project: [Telegram Bot for Homework Status Checking](https://github.com/vhg860/homework_bot)
-
-**Description:**
-A Telegram bot interacting with the Practicum.API to provide information on the status of homework: under review, checked, and reviewer's decision.
-
-**Features:**
-- Periodic API checks for homework status
-- Notifications on status updates via Telegram
-- Logging and reporting important issues
-
-### Project: [Kittygram](https://github.com/vhg860/kittygram_final)
-
-**Description:**
-Kittygram is a social network for sharing photos of beloved pets.
-
-**Tech Stack:**
-- Backend: Django, PostgreSQL
-- Frontend: React
-- Deployment: Docker, GitHub Actions
-
-### Project: [taski-docker](https://github.com/vhg860/taski-docker)
-
-**Description:**
-An application for task planning. Add, modify, delete tasks, and move them from "unfinished" to "completed" group.
+### [Kittygram](https://github.com/vhg860/kittygram_final)
+- Social network for exchanging photos of beloved pets.
 
 Feel free to explore these projects, and I hope you find something interesting! 🌟
 
