@@ -10,46 +10,46 @@ I'm a developer with skills in:
 
 ## Projects 🚀
 
-### [Sagaart Backend](https://github.com/Sagaart-4/backend)
+##### [Sagaart Backend](https://github.com/Sagaart-4/backend)
 <sub>Backend for the Sagaart online gallery.
 MVP site where users can register as sellers or buyers of art.
 Browse, buy, and sell art, with a modern art evaluation service based on big data analysis.
 [Swagger UI](https://xaverd.hopto.org/api/schema/swagger-ui/)
 [MVP Site](https://artfour.vercel.app/)</sub>
 
-### [Birthday Service](https://github.com/vhg860/birthday_service)
+##### [Birthday Service](https://github.com/vhg860/birthday_service)
 <sub>Service for sending birthday congratulations to employees.</sub>
 
-### [Django Testing](https://github.com/vhg860/django_testing)
-- Collection of tests for YaNews and YaNote projects using pytest and unittest.
+##### [Django Testing](https://github.com/vhg860/django_testing)
+<sub>- Collection of tests for YaNews and YaNote projects using pytest and unittest.</sub>
 
-### [Blogicum](https://github.com/vhg860/django_sprint4)
-- Social network for publishing personal diaries. Users can create their page and post messages (posts).
+##### [Blogicum](https://github.com/vhg860/django_sprint4)
+<sub>- Social network for publishing personal diaries. Users can create their page and post messages (posts).</sub>
 
-### [API Yatube](https://github.com/vhg860/api_yatube)
-- CRUD for Yatube.
+##### [API Yatube](https://github.com/vhg860/api_yatube)
+<sub>- CRUD for Yatube.
 - TokenAuthentication for user authorization.
-- Authenticated users have access to change and delete their content, while others can only read.
+- Authenticated users have access to change and delete their content, while others can only read.</sub>
 
-### [API YaMDb](https://github.com/vhg860/api_yamdb)
-- Collects user reviews on works categorized into "Books," "Movies," "Music."
-- Only authenticated users can add reviews, comments, and ratings.
+##### [API YaMDb](https://github.com/vhg860/api_yamdb)
+<sub>- Collects user reviews on works categorized into "Books," "Movies," "Music."
+- Only authenticated users can add reviews, comments, and ratings.</sub>
 
-### [Fitness Tracker Module](https://github.com/vhg860/hw_python_oop)
-- Handles data for three types of workouts: running, walking, and swimming.
+##### [Fitness Tracker Module](https://github.com/vhg860/hw_python_oop)
+<sub>- Handles data for three types of workouts: running, walking, and swimming.</sub>
 
-### [Taski-Docker](https://github.com/vhg860/taski-docker)
-- Task planning application with the ability to add, modify, delete tasks and move them between "unfinished" and "finished" groups.
+##### [Taski-Docker](https://github.com/vhg860/taski-docker)
+<sub>- Task planning application with the ability to add, modify, delete tasks and move them between "unfinished" and "finished" groups.</sub>
 
-### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
-- Telegram bot that interacts with Yandex.Practicum Homework API.
-- Provides information on the status of homework: whether it's in review, reviewed, and the reviewer's decision.
+##### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
+<sub>- Telegram bot that interacts with Yandex.Practicum Homework API.
+- Provides information on the status of homework: whether it's in review, reviewed, and the reviewer's decision.</sub>
 
-### [Foodgram](https://github.com/vhg860/foodgram-project-react)
-- Web application for sharing and finding recipes, adding them to favorites, and creating a shopping list.
+##### [Foodgram](https://github.com/vhg860/foodgram-project-react)
+<sub>- Web application for sharing and finding recipes, adding them to favorites, and creating a shopping list.</sub>
 
-### [Kittygram](https://github.com/vhg860/kittygram_final)
-- Social network for exchanging photos of beloved pets.
+##### [Kittygram](https://github.com/vhg860/kittygram_final)
+<sub>- Social network for exchanging photos of beloved pets.</sub>
 
 Feel free to explore these projects, and I hope you find something interesting! 🌟
 
