@@ -10,6 +10,16 @@ I'm a developer with skills in:
 
 ## Projects 🚀
 
+### [Sagaart Backend](https://github.com/Sagaart-4/backend)
+<sub>Backend for the Sagaart online gallery.
+MVP site where users can register as sellers or buyers of art.
+Browse, buy, and sell art, with a modern art evaluation service based on big data analysis.
+[Swagger UI](https://xaverd.hopto.org/api/schema/swagger-ui/)
+[MVP Site](https://artfour.vercel.app/)</sub>
+
+### [Birthday Service](https://github.com/vhg860/birthday_service)
+<sub>Service for sending birthday congratulations to employees.</sub>
+
 ### [Django Testing](https://github.com/vhg860/django_testing)
 - Collection of tests for YaNews and YaNote projects using pytest and unittest.
 
