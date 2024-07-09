@@ -48,19 +48,19 @@ Browse, buy, and sell art, with a modern art evaluation service based on big dat
 
 ### Telegram Bots
 
-### [Telegram Bot for Cat and Dog Images](https://github.com/vhg860/kittybot)
+##### [Telegram Bot for Cat and Dog Images](https://github.com/vhg860/kittybot)
 <sub>This project is a Telegram bot that sends random cat and dog images to users.
 The bot uses the Telegram Bot API, thecatapi.com, and thedogapi.com to fetch images.
 [Bot Link](https://t.me/PeaJItok_bot)</sub>
 
-### [Crypto Currency Rate Alert Bot](https://github.com/vhg860/test-tasks/tree/main/Sorex)
+##### [Crypto Currency Rate Alert Bot](https://github.com/vhg860/test-tasks/tree/main/Sorex)
 <sub>Script to track the exchange rate of selected cryptocurrency via the API from coinmarketcap.com.
 The exchange rate is tracked against USD.
 Users set the desired currency and threshold value via Telegram.
 Notifications about the threshold rate achievement are sent to the Telegram chat.
 [Bot Link](https://t.me/Sorex35bot)</sub>
 
-### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
+##### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
 <sub>Telegram bot that interacts with Yandex.Practicum Homework API.
 Provides information on the status of homework: whether it's in review, reviewed, and the reviewer's decision.</sub>
 
