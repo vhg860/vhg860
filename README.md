@@ -53,12 +53,12 @@ Browse, buy, and sell art, with a modern art evaluation service based on big dat
 The bot uses the Telegram Bot API, thecatapi.com, and thedogapi.com to fetch images.
 [Bot Link](https://t.me/PeaJItok_bot)</sub>
 
-##### [Crypto Currency Rate Alert Bot](https://github.com/vhg860/test-tasks/tree/main/Sorex)
+##### [Crypto Currency Rate Alert Bot](https://github.com/vhg860/Crypto_bot)
 <sub>Script to track the exchange rate of selected cryptocurrency via the API from coinmarketcap.com.
 The exchange rate is tracked against USD.
 Users set the desired currency and threshold value via Telegram.
 Notifications about the threshold rate achievement are sent to the Telegram chat.
-[Bot Link](https://t.me/Sorex35bot)</sub>
+[Bot Link](https://t.me/Avangard_35Bot)</sub>
 
 ##### [Telegram Bot for Homework Status](https://github.com/vhg860/homework_bot)
 <sub>Telegram bot that interacts with Yandex.Practicum Homework API.
